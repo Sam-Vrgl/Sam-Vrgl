@@ -12,6 +12,8 @@
  - I keep up to date with the latest AI, Coding and Space news
  - Proficient in Python, JS, Java, HTML/CSS, PHP Docker and various frameworks
 
+##[Portfolio](https://sam-vrgl.com/) - Partially complete, under develoment
+
 
 <!--
 **Sam-Vrgl/Sam-Vrgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
