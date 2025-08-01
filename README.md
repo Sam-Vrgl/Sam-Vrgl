@@ -12,7 +12,7 @@
  - I keep up to date with the latest AI, Coding and Space news
  - Proficient in Python, JS, Java, HTML/CSS, PHP Docker and various frameworks
 
-##[Portfolio](https://sam-vrgl.com/) - Partially complete, under develoment
+## [Portfolio](https://sam-vrgl.com/) - Partially complete, under develoment
 
 
 <!--
